@@ -6,7 +6,7 @@ import ContactUsPage from "./Screens/ContactUsPage";
 import { NavLink } from "react-router-dom";
 import ErrorComponent from "./Components/ErrorComponent";
 
-function App() {
+//function App() {
   return (
     <BrowserRouter>
       <Routes>
